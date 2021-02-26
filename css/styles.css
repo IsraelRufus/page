@@ -1,0 +1,160 @@
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-size: 100%;
+  font-family: 'Bree Serif', serif;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-size: 5.625rem;
+  font-family: 'Tangerine', cursive;
+  color: #6155a6;
+}
+
+h2 {
+  font-family: 'Yantramanav', sans-serif;
+  font-size: 2rem;
+  font-weight: normal;
+  color: #6155a6;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: 'Yantramanav', sans-serif;
+  color: #6178d2;
+}
+
+a {
+  color: #6178d2;
+  font-family: 'Yantramanav', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #b4c1f5;
+}
+
+p {
+  line-height: 2;
+}
+
+hr {
+  border: dotted #eaf6f6 6px;
+  border-bottom: none;
+  width: 5%;
+  margin: 100px auto;
+}
+
+.top-container {
+  background-color: #a685e2;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  padding: 100px 0;
+}
+
+.bottom-container {
+  background-color: #6155a6;
+  padding: 50px 0 20px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 40px;
+  right: 300px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+}
+
+.code-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.chilli-img {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.copyright {
+  color: #d8def5;
+  font-size: 0.80rem;
+  padding: 20px 0;
+}
+
+.pro-pic {
+  width: 15%;
+  border-radius: 100%;
+
+}
+
+.contact-message {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.BUTTON_JLO {
+   background: #A685E2;
+   background-image: -webkit-linear-gradient(top, #A685E2, #6155A6);
+   background-image: -moz-linear-gradient(top, #A685E2, #6155A6);
+   background-image: -ms-linear-gradient(top, #A685E2, #6155A6);
+   background-image: -o-linear-gradient(top, #A685E2, #6155A6);
+   background-image: -webkit-gradient(to bottom, #A685E2, #6155A6);
+   -webkit-border-radius: 19px;
+   -moz-border-radius: 19px;
+   border-radius: 19px;
+   color: #FFFFFF;
+   font-family: 'Yantramanav', sans-serif;
+   font-size: 20px;
+   font-weight: 100;
+   padding: 10px 20px;
+   -webkit-box-shadow: 1px 1px 20px 0 #6155A6;
+   -moz-box-shadow: 1px 1px 20px 0 #6155A6;
+   box-shadow: 1px 1px 20px 0 #6155A6;
+   text-shadow: 1px 1px 20px #6F9EE1;
+   border: solid #B968F1 0;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.BUTTON_JLO:hover {
+   border: solid #6155A6 1px;
+   background: #D285E2;
+   background-image: -webkit-linear-gradient(top, #D285E2, #8155A6);
+   background-image: -moz-linear-gradient(top, #D285E2, #8155A6);
+   background-image: -ms-linear-gradient(top, #D285E2, #8155A6);
+   background-image: -o-linear-gradient(top, #D285E2, #8155A6);
+   background-image: -webkit-gradient(to bottom, #D285E2, #8155A6);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
